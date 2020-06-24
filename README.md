@@ -1,6 +1,6 @@
 # inkdrop-highlight-text
 
-Updated version of [inkdrop-highlight-text](https://github.com/sambrezo/inkdrop-highlight-text)
+**Updated version of [inkdrop-highlight-text](https://github.com/sambrezo/inkdrop-highlight-text)**
 
 A plugin for [Inkdrop](https://www.inkdrop.info/) that implements the Markdown text highlighting extension. It parses text enclosed by `==` and renders it as marked text.
 
