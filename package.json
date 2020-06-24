@@ -1,0 +1,16 @@
+{
+  "name": "mark-text",
+  "main": "./lib/mark-text",
+  "version": "0.1.0",
+  "description": "Markdown text highlighting extension",
+  "keywords": [
+  ],
+  "repository": "https://github.com/TaylanTatli/inkdrop-mark-text",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+    "remark-mark": "0.0.0"
+  }
+}

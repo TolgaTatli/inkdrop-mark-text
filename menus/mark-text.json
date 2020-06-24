@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle mark-text",
+        "command": "mark-text:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "mark-text",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "mark-text:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
