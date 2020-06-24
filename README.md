@@ -1,4 +1,4 @@
-# inkdrop-highlight-text
+# inkdrop-mark-text
 
 **Updated version of [inkdrop-highlight-text](https://github.com/sambrezo/inkdrop-highlight-text)**
 
